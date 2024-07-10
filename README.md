@@ -1,5 +1,6 @@
 # Excel-HR-Analytics-Dashboard-
 I'm thrilled to share my latest project where I harnessed the power of Excel for HR data analytics. 🎉📊 This project analyzes HR metrics to provide actionable insights for workforce management. 
+  
 🌟 Project Overview:
 
 Project Goal: To analyze key HR metrics such as employee attrition, satisfaction, and demographic distribution to identify trends and support data-driven decision-making.
