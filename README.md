@@ -1,76 +1,54 @@
-# Excel-HR-Analytics-Dashboard-
-I'm thrilled to share my latest project where I harnessed the power of Excel for HR data analytics. 🎉📊 This project analyzes HR metrics to provide actionable insights for workforce management. 
-  
-🌟 Project Overview:
+# 🎉📊 Excel-HR-Analytics-Dashboard
+![](https://github.com/KrishnaBabu-Khethavath/Excel-HR-Analytics-Dashboard-/blob/main/hrE.png)
 
-Project Goal: To analyze key HR metrics such as employee attrition, satisfaction, and demographic distribution to identify trends and support data-driven decision-making.
+## 🌟 Project Overview:
 
+- Goal: Analyze key HR metrics to identify trends and support data-driven decision-making.
 
+## 🔍 Dashboard Highlights:
 
-🔍 Dashboard Highlights:
+- Total Employees: 1470
 
-Total Employees: 1470
+- Attrition: 237 employees
 
-Attrition: 237 employees
+- Active Employees: 1233
 
-Active Employees: 1233
+- Attrition Rate: 16%
 
-Attrition Rate: 16%
+- Average Age: 37 years
 
-Average Age: 37 years
+## 📈 Detailed Insights:
 
+- Gender Distribution: Female - 588, Male - 882
 
+- Education-wise Attrition: Insights into retention strategies.
 
-📈 Detailed Insights:
+- Attrition by Role: Identifies at-risk job roles.
 
-Total Employees by Gender:
+- Department-wise Attrition: HR - 56.12%, R&D and Sales - remaining percentage.
 
-Female: 588
+- Age Group-wise Attrition: Analyzes attrition across age groups.
 
-Male: 882
+- Marital Status by Attrition: Married - 673, Single - 470, Divorced - 327.
 
-Education-wise Attrition: Shows attrition rates across different education levels, highlighting areas where retention strategies can be focused.
+## 📊 Key Metrics:
 
-Attrition by Role: Provides a breakdown of attrition by various job roles, helping to identify which roles are most at risk.
+- Job Satisfaction Rating: 2.6
 
-Department-wise Attrition:
+- Employee Demographics: Gender distribution and age groups.
 
-HR: 56.12%
+- Education Field & Department Distribution: Workforce composition.
 
-R&D and Sales: Remaining percentage, offering insights into department-specific challenges.
+## 💡 Insights Generated:
 
-Age Group-wise Attrition: Analyzes attrition across different age groups, helping to understand which age groups are more likely to leave.
+- Attrition Trends: Informs HR strategies.
 
-Marital Status by Attrition:
+- Job Satisfaction: Snapshot of employee morale.
 
-Married: 673
+- Demographic Distribution: Tailors HR policies.
 
-Single: 470
+## 📋 Tools and Visualizations:
 
-Divorced: 327, providing insights into personal factors affecting attrition.
+- Charts: Donut, pie, column, bar, and treemap charts.
 
-📊 Key Metrics:
-
-Job Satisfaction Rating: 2.6
-
-Employee Demographics: Visualized through gender distribution and age groups.
-
-Education Field & Department Distribution: Highlights the composition of the workforce across different education fields and departments.
-
-
-
-💡 Insights Generated:
-
-Attrition Trends: By analyzing data on education, role, department, age group, and marital status, the dashboard reveals patterns that can inform HR strategies.
-
-Job Satisfaction: The rating offers a snapshot of overall employee morale, which is crucial for retention efforts.
-
-Demographic Distribution: Understanding the workforce composition helps tailor HR policies to different employee segments.
-
-
-
-📋 Tools and Visualizations Used:
-
-Charts: Donut charts, pie charts, column charts, bar charts, and treemap charts for effective data representation.
-
-Slicers: Utilized for Educational Field and Department to enable interactive filtering of data.
+- Slicers: For interactive filtering by Educational Field and Department.
